@@ -1,3 +1,9 @@
+---
+title: Terms & Conditions
+layout: template
+filename: terms_and_conditions.md
+--- 
+
 **Terms & Conditions**  
 
 These terms and conditions apply to the Jump! Chip app (hereby referred to as "Application") for mobile devices that was created by Myungho Jung (hereby referred to as "Service Provider") as a Free service.
