@@ -1,3 +1,9 @@
+---
+title: Privacy Policy
+layout: template
+filename: privacy.md
+--- 
+
 **Privacy Policy**
 
 This privacy policy applies to the Jump! Chip app (hereby referred to as "Application") for mobile devices that was created by Myungho Jung (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
